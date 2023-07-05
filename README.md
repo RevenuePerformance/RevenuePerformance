@@ -6,7 +6,7 @@
 - https://lifeinthesingularity.com/
 - https://RevSystems.ai
 - Mastery faster with technology
-- "I know Kung Fu"
+- "I know Kung Fu" - Neo
 <!---
 RevenuePerformance/RevenuePerformance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
