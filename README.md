@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matt McDonagh aka @RevenuePerformance
 - 👀 I’m interested in personal mastery and leveraging technology to enhance business operations, investment risk/return profile and professional network building.
-- 🌱 I’m always learning Py (never ending journey) and machine learning, specifically ensemble and related techniques. Always getting better at SQL patterns.
-- GenerativeAI / Prompt Engineering / Engaging successfully with AI will be a fulcrum for professional and personal lives alike..
+- 🌱 I’m always learning Py (never ending journey) and machine learning, specifically ensemble and related techniques.
+- GenerativeAI / Prompt Engineering / Engaging successfully with AI will be a fulcrum for professional and personal lives.
 - [https://mattmcdonagh.substack.com/](https://lifeinthesingularity.com/)
 - https://lifeinthesingularity.com/
 - https://RevSystems.ai
